@@ -1,1 +1,1 @@
-<img src="./my_git_profile.png" width="900px" height="600px" alt="my_git_profile" /> 
+<img src="./my_git_profile.png" width="1000px" height="666px" alt="my_git_profile" /> 
